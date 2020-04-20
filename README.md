@@ -12,17 +12,17 @@ To create a cascadingStyle single-paged photo-sharing-appp with the following fu
 
 ## Wireframe
 ##### This shows both the overall look as well as some of the individual components
-![Overview](images/overview.jpg)
-![User Authentication](images/urauth.jpg)
-![PictureBox](images/picbox.jpg)
-![PictureGallery](images/picgal.jpg)
-![ModelMessaging](images/mmess.jpg)
-![Reactions](images/rxnz.jpg)
+![Overview](images/overview.png)
+![User Authentication](images/urauth.png)
+![PictureBox](images/picbox.png)
+![PictureGallery](images/picgal.png)
+![ModelMessaging](images/mmess.png)
+![Reactions](images/rxnz.png)
 
 ## Synopsis
 ###### Picsure-app: Is a photo sharing app for professional photographers that leverages networks effects for optimizing peer review of professional image/photo portfolio.  Beyond creative proffessionals; It is open to oberervers/clients/fans for viewing showCases but only REGISTERED {creative professionals} can review/critic submitted works.
 
-## SCHEDULED (Redefined OBJECTIVES & GOALS)
+## SCHEDULED (OBJECTIVES & GOALS)
 Mon April 20th:
 1. Wireframe        										√ Done
 2. NavBAR                           						√ Done
@@ -36,7 +36,7 @@ Tue April 21st:
 3. Consider Soicial Media Handles & Sharing to External Pages/Platforms
 4. Review Components & DOM-Elements
  
- 
+
 Wed April 22nd:
 1. NODEjs all day
 2. Consider BootStrap 
